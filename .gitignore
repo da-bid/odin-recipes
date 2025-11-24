@@ -1,0 +1,5 @@
+# Git folder
+.git/
+
+# Local History for Visual Studio Code
+.history/
